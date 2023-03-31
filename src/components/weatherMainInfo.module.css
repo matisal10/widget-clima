@@ -1,0 +1,37 @@
+.mainInfo{
+    background-color: white;
+    padding: 40px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.city{
+    font-size: 42px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.country{
+    font-size: 24px;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 15px 0;
+}
+
+.weatherCondition{
+    width: 200px;
+}
+
+.condition{
+    font-size: 24px;
+}
+
+.current {
+    font-size: 30px;
+    font-weight: bold;
+}
